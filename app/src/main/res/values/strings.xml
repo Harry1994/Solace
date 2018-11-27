@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Solace</string>
+    <string name="title_activity_main">Draw Canvas</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_delete">Undo</string>
+    <string name="title_draw">Draw</string>
+    <string name="title_done">Done</string>
+    <string name="title_start">Start</string>
+    <string name="title_activities">Activities</string>
+    <string name="title_history">History</string>
+    <string name="title_advice">Advice</string>
+    <string name="color_dialog_title">Choose color</string>
+    <string name="question_text_after">How stressed are you now?</string>
+    <string name="question_text_before">How stressed are you?</string>
+    <string name="done">Done</string>
+</resources>

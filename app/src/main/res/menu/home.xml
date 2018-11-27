@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home_activities"
+        android:checkable="false"
+        android:icon="@drawable/ic_activities_black_24dp"
+        android:title="@string/title_activities" />
+
+    <item
+        android:id="@+id/home_history"
+        android:checkable="false"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:title="@string/title_history" />
+
+    <item
+        android:id="@+id/home_advice"
+        android:checkable="false"
+        android:icon="@drawable/ic_advice_black_24dp"
+        android:title="@string/title_advice" />
+
+
+</menu>

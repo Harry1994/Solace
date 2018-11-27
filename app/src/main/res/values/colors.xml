@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00e676</color>
+    <color name="colorPrimaryDark">#12d274</color>
+    <!--<color name="colorAccent">#7fd6a3</color>-->
+    <color name="colorAccent">#9e22e275</color>
+    <color name="sliderBack">#e9fff5</color>
+    <color name="roundButton">#12d274</color>
+    <color name="white">#FFFFFF</color>
+    <array name="progressGradientColors">
+        <item>#bffcdf</item>
+        <item>#54ffac</item>
+        <item>#28ff96</item>
+        <item>#12d274</item>
+    </array>
+</resources>
